@@ -1,0 +1,298 @@
+{
+  "boss_rules": {
+    "cataclysm:maledictus": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "cataclysm:netherite_monstrosity": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "block_factorys_bosses:yeti": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "block_factorys_bosses:infernal_dragon": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "cataclysm:ignis": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "bosses_of_mass_destruction:void_blossom": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "irons_spellbooks:fire_boss": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "bosses_of_mass_destruction:gauntlet": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "mowziesmobs:sculptor": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "bosses_of_mass_destruction:obsidilith": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "cataclysm:ender_guardian": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "cataclysm:scylla": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "cataclysm:the_harbinger": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "mowziesmobs:umvuthi": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "cataclysm:the_leviathan": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "mowziesmobs:frostmaw": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "mowziesmobs:ferrous_wroughtnaut": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "bosses_of_mass_destruction:lich": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "minecraft:warden": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "minecraft:wither": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "block_factorys_bosses:sandworm": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "irons_spellbooks:dead_king": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "cataclysm:ancient_remnant": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    },
+    "block_factorys_bosses:underworld_knight": {
+      "enabled": true,
+      "dimensions": [],
+      "biomes": [],
+      "aliases": [],
+      "blacklist_mode": false,
+      "force_unlock": false,
+      "loot": {
+        "loot_tables": [],
+        "append_defaults": false
+      }
+    }
+  },
+  "global_settings": {
+    "default_enabled": true,
+    "auto_add_new_bosses": true,
+    "force_unlock_all": false,
+    "require_biome_match": false
+  }
+}

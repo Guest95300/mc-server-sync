@@ -1,0 +1,17 @@
+filename = 'confluence_music-1.2.4.1-260428.jar'
+name = 'Confluence Music'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ConfluenceMusic-1.2.4.1-260428'
+
+[download]
+hash = '8ab8f4a7e1e09dfe94b7b9b843200b6192011e23'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8005427
+project-id = 1323995

@@ -1,0 +1,6 @@
+{
+  "type":"tipsmod:simple",
+  "text": {
+    "text":"Torch Arrows can be crafted with a normal torch and arrow. They will set entities on fire or place a torch where they land."
+  }
+}

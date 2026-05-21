@@ -1,0 +1,16 @@
+{
+  "type": "exposure:film_developing",
+  "film": {
+    "tag": "exposure:color_film_rolls"
+  },
+  "ingredients": [
+    [
+      {
+        "item": "supplementaries:lumisene_bottle"
+      }
+    ]
+  ],
+  "result": {
+    "id": "exposure:developed_color_film"
+  }
+}

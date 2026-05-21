@@ -1,0 +1,17 @@
+filename = 'reliable_requiem-neoforge-1.21.1-1.0.0.jar'
+name = 'Reliable Requiem'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Reliable Requiem Neoforge 1.21.1 - 1.0.0'
+
+[download]
+hash = '72d0c13e346886210d3a9d420635100a60c23285'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7970477
+project-id = 1521473

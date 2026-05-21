@@ -1,0 +1,17 @@
+filename = 'journeycreative-1.1.4+1.21.1+neoforge.jar'
+name = 'Journey Creative'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'journeycreative-1.1.4 [Neoforge 1.21.1].jar'
+
+[download]
+hash = '73884815dec66af3776f07f6e20b668a09fc49a0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7933570
+project-id = 1426027

@@ -1,0 +1,19 @@
+#Enable/Disable the mod
+enabled = true
+# Ticks between each swing
+# Vanilla: 16
+# Relaxed: 20
+# Lower = faster, Higher = slower
+# Default: 16
+# Range: 10 ~ 40
+swingInterval = 16
+# Swing animation speed multiplier
+# Vanilla: 1.2
+# Relaxed: 1.0
+# Default: 1.2
+# Range: 0.5 ~ 2.0
+swingSpeedMultiplier = 1.2
+# Mining damage multiplier
+# Default: 1.0
+# Range: 0.1 ~ 10.0
+damageMultiplier = 1.0

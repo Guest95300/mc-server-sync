@@ -1,0 +1,13 @@
+name = "mamboxritalin"
+author = "A8gust"
+version = "1.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "93e17b5ff9ca52477c3e53176e975eda07976a8e451b11797d2d806eb853763d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

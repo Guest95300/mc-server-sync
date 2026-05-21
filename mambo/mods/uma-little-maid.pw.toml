@@ -1,0 +1,17 @@
+filename = 'uma_maid-1.0.3-1.21.1.jar'
+name = 'Uma Little Maid'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'uma_maid-1.0.3-1.21.1.jar'
+
+[download]
+hash = 'd02d930630e537114658e613befa48d689619030'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7810956
+project-id = 1263905

@@ -1,0 +1,6 @@
+{
+  "type":"tipsmod:simple",
+  "text": {
+    "text":"A Trowel tool can be crafted with Iron and Sticks. The Trowel, when right clicked, will place a random block from your hotbar, making it useful for ruins or paths."
+  }
+}

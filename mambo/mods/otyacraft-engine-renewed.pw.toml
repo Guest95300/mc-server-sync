@@ -1,0 +1,17 @@
+filename = 'otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1.jar'
+name = 'Otyacraft Engine Renewed'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Otyacraft Engine Renewed 3.7.2-1.21.1-beta1 NeoForge'
+
+[download]
+hash = 'a24817c98c0fdf1755808a7dd09b30a36a9ef83d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7935699
+project-id = 1278018

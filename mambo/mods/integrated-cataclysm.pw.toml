@@ -1,0 +1,17 @@
+filename = 'integrated_cataclysm-1.0.6+1.21.1-neoforge.jar'
+name = 'Integrated Cataclysm'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'integrated_cataclysm-1.0.6+1.21.1-neoforge.jar'
+
+[download]
+hash = 'd9490abb8c6c66c61eabd836ffb016d385fd2b75'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7808552
+project-id = 1164949

@@ -1,0 +1,6 @@
+{
+  "type":"tipsmod:simple",
+  "text": {
+    "text":"Pressing the [Rotation Lock] key will lock a rotation. Any further blocks placed are changed to that direction, regardless of how you were facing when placing them."
+  }
+}

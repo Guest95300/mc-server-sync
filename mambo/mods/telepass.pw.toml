@@ -1,0 +1,17 @@
+filename = 'TelePass-neoforge-1.21-6.0.0.jar'
+name = 'TelePass'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'TelePass-neoforge-1.21-6.0.0.jar'
+
+[download]
+hash = '65be5833484469c9e4700fdf3058300bb96c30cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5508096
+project-id = 341875

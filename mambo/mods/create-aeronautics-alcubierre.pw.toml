@@ -1,0 +1,17 @@
+filename = 'alcubierre-1.0.0.jar'
+name = 'Create Aeronautics: Alcubierre'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'alcubierre-1.0.0.jar'
+
+[download]
+hash = '1ce23e196529a5315ff2dae2e005d9487b01eee5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8102352
+project-id = 1545644

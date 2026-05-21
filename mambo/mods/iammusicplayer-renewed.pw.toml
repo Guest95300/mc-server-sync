@@ -1,0 +1,17 @@
+filename = 'neoforge-3.23.1-1.21.1-beta2.jar'
+name = 'IamMusicPlayer Renewed'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Iam Music Player Renewed 3.23.1-1.21.1-beta2'
+
+[download]
+hash = 'b726e9b45fced1ec1821e09381323cbab7624c93'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8026686
+project-id = 1199214

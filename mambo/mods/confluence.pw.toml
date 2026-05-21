@@ -1,0 +1,17 @@
+filename = 'ConfluenceOtherworld-1.2.4-260226.jar'
+name = 'Confluence: Otherworld'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.4-260226'
+
+[download]
+hash = 'ddf98a71a894a0fd5c60767496e1d863499142f631078c12cae80419b094cc169caced5d426fd29d7c2d8d7d22afbef55f0758f7b5b8834fcf0315eff6af8ca4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9kp7blvl/versions/SvvNcTJh/ConfluenceOtherworld-1.2.4-260226.jar'
+
+[update.modrinth]
+mod-id = '9kp7blvl'
+version = 'SvvNcTJh'

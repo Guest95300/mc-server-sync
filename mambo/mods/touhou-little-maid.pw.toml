@@ -1,0 +1,17 @@
+filename = 'touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar'
+name = 'Touhou Little Maid'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar'
+
+[download]
+hash = 'f96507810deaa2ffd8c3bd86a79d6ccbd56ca32e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8061852
+project-id = 355044

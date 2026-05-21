@@ -1,0 +1,17 @@
+filename = 'playertracker-0.0.1.jar'
+name = 'Compass Player Tracker'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'playertracker-neoforge-0.0.1.jar'
+
+[download]
+hash = 'a47796de896f44f56145f2a8dc77a5f872619139'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8067174
+project-id = 1539051

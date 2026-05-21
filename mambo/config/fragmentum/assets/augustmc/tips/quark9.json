@@ -1,0 +1,6 @@
+{
+  "type":"tipsmod:simple",
+  "text": {
+    "text":"Setting a Skeleton Skull, Zombie Head, or Creeper Head over a fence will create a skull pike. Nearby monsters in a 5 block range and with line of sight will notice it, and run away in cowardice."
+  }
+}

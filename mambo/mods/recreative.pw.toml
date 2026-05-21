@@ -1,0 +1,17 @@
+filename = 'recreative-neoforge-1.21.1-1.5.0.jar'
+name = 'Recreative'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Recreative Neoforge 1.21.1 - 1.5.0'
+
+[download]
+hash = '8871a2d69ae6655446a97f52d181efc537adad8a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8081377
+project-id = 1513300
