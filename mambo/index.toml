@@ -2045,11 +2045,6 @@ hash = "03123ebdbc21dd87253efcddc36a21671c3d435f35fed4af44002c3c07667f70"
 metafile = true
 
 [[files]]
-file = "mods/exposure-detective.pw.toml"
-hash = "46d7ed72e4ef6d701f1946f1e2254f57bca6dea95aa790b085e0e5ca9d4fab55"
-metafile = true
-
-[[files]]
 file = "mods/exposure.pw.toml"
 hash = "1db34745a33753004b0ca0ed61e261eff10067b74361d6e1325f40025099b01f"
 metafile = true
@@ -2306,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "4e6804c276ed9bdf6d653b125de53a69169e4e2ad29f5a6dc2f6e101d2b80411"
+hash = "cbec12631d20bc37fcdcae6f95a3c7bf3f10168f5a9017e28172efecafcd51d9"
 metafile = true
 
 [[files]]
