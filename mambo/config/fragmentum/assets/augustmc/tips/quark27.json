@@ -1,6 +1,0 @@
-{
-  "type":"tipsmod:simple",
-  "text": {
-    "text":"A filter button will now appear on the top right of chests you open. When you click it, a tab with a search bar will pop up, where you can type and filter items in the chest by your query. Items that don't match will be darkened."
-  }
-}

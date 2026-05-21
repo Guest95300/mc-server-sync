@@ -1,6 +1,0 @@
-{
-  "type":"tipsmod:simple",
-  "text": {
-    "text":"Two new buttons are added to chests: Insert, and Extract. If you hold Shift while pressing these buttons, they'll only move items that are on the other side."
-  }
-}

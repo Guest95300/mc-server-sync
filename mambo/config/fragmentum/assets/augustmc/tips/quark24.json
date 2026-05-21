@@ -1,6 +1,0 @@
-{
-  "type":"tipsmod:simple",
-  "text": {
-    "text":"Dispensers are allowed to place blocks in the world. Any blocks that already had a placement behaviour, like TNT, are ignored."
-  }
-}

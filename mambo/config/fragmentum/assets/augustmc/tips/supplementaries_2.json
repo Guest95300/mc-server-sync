@@ -1,6 +1,0 @@
-{
-  "type":"tipsmod:simple",
-  "text": {
-    "text":"The Speaker Block can send a message in chat to all players in a certain radius when activated by redstone. It can also be renamed in an anvil to change the name that will be displayed in chat."
-  }
-}
