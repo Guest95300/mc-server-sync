@@ -65,34 +65,6 @@ file = "config/alexscaves-general.toml"
 hash = "d33ed3ba05f92e6fbaa72a10f93480cef9460e34e0be2f93c23d000e6c15e4e5"
 
 [[files]]
-file = "config/alexscaves_biome_generation/.version"
-hash = "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
-
-[[files]]
-file = "config/alexscaves_biome_generation/abyssal_chasm.json"
-hash = "7a0aca34fad9cf3895e1f8035fe40fe75c3fbea31fd69f07151cc6d221e224d3"
-
-[[files]]
-file = "config/alexscaves_biome_generation/candy_cavity.json"
-hash = "e68dac5fc506c198dedf07566e0184872be730c4d369c4bbb245f5b12673bd19"
-
-[[files]]
-file = "config/alexscaves_biome_generation/forlorn_hollows.json"
-hash = "aabb95c7efcedff55a3add91832b1395d767f1b8bc5736064b809f16293481c7"
-
-[[files]]
-file = "config/alexscaves_biome_generation/magnetic_caves.json"
-hash = "5b9a96de68eb17b03b5b19808dc2bae7854948c81e57aeda60bab927b4a54e8e"
-
-[[files]]
-file = "config/alexscaves_biome_generation/primordial_caves.json"
-hash = "ad81cc492bce6aad55b2becdff94bddde8007070e467445610dc124b4f8d3c68"
-
-[[files]]
-file = "config/alexscaves_biome_generation/toxic_caves.json"
-hash = "f9e79d5c2c508e03e72da253925f7060acc9146191df44d5f21f0513a4b34c66"
-
-[[files]]
 file = "config/antique-atlas.toml"
 hash = "e20d3a1095edcba46e4c42c82740ea77f375fa9cf7bff726cf762af800b8c7ea"
 
