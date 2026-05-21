@@ -2046,7 +2046,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure-detective.pw.toml"
-hash = "1ab4c0989231b72b9d3556c281e8dff4e7d68039cbadfc9ff78dc4bf52585527"
+hash = "46d7ed72e4ef6d701f1946f1e2254f57bca6dea95aa790b085e0e5ca9d4fab55"
 metafile = true
 
 [[files]]
@@ -2366,7 +2366,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c2cfd8805574ad7e725de8448ec71906d99b6bd147f1d0d34b1daedd3eaa8a76"
+hash = "e2a75ae35ccc1031b9a982ee549af6dedc60521dba36c2181940fdee5e1878bf"
 metafile = true
 
 [[files]]
@@ -2591,7 +2591,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista.pw.toml"
-hash = "867ccc605ef588238923b48dc436b16248761783102bad4e50e86aad06b19c2f"
+hash = "c6ef704bf33ebceb56b1efe359a5d9728586a9410619b930c78f5ff071a5e08a"
 metafile = true
 
 [[files]]
