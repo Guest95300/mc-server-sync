@@ -1,17 +1,17 @@
-filename = 'AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar'
-name = 'Advanced Loot Info'
+filename = 'AdvancedLootInfo-neoforge-1.21.1-1.11.0.jar'
+name = 'AdvancedLootInfo'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.21.1-1.10.0'
+x-prismlauncher-version-number = '1.21.1-1.11.0'
 
 [download]
-hash = '4d6e3171771de6d03e691b26d467d21be0be1f75e46c1785453b553493a61947f20bbcab0460654027ce836395c5f0e38e7377a785e08b6f9ecea1f312bbe536'
+hash = 'f9736b06e09139a86ac2c39dcb2a09592c2d7f9f4016c3fd3849e68047576e54adf803b5bdf81bd6f451760076bb531a8ba74317cb894e8a3182d89fc747aaa8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/PEPVViac/versions/9jJT2Kmz/AdvancedLootInfo-neoforge-1.21.1-1.10.0.jar'
+url = 'https://cdn.modrinth.com/data/PEPVViac/versions/lVuUaUgU/AdvancedLootInfo-neoforge-1.21.1-1.11.0.jar'
 
 [update.modrinth]
 mod-id = 'PEPVViac'
-version = '9jJT2Kmz'
+version = 'lVuUaUgU'

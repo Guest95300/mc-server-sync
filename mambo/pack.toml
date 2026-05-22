@@ -1,12 +1,12 @@
 name = "mamboxritalin"
 author = "A8gust"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1123e5b076b6bec26afd695ffd466f84d9dd7d4239a2c0e30cad0cfd8e63bd87"
+hash = "4cb342a4c44cf18ff135d29052d78e72c42977646be2d7c24de57cf31cd74435"
 
 [versions]
 minecraft = "1.21.1"

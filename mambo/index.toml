@@ -1475,7 +1475,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-loot-info.pw.toml"
-hash = "79792d9bb880265a2d50e5897f0af2bb1609f36f4ffb5b607317d97cc3f8bcb8"
+hash = "c146a7afccc93413ca9fe850c72102863232d0402465f84f25a4c06355b2d5db"
 metafile = true
 
 [[files]]
@@ -2055,7 +2055,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "e5ef83601b1c104828bfdd257b2d66c55f7604c1d0ee786989a3a6cd3ad6069d"
+hash = "8324d9e8aa272082db77858c70589dbae86c2e0a6361b4da41e5d2b4828ec2bf"
 metafile = true
 
 [[files]]
@@ -2105,7 +2105,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "55d5f9120f96ddca9506804ebc4aec3763da0733ba4634cce3690bed1fbbba2d"
+hash = "e9e997ef3c464e6dd00c04035ea6bfd8d8fdfeed731848ba51514810300e5a95"
 metafile = true
 
 [[files]]
@@ -2325,12 +2325,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "258b26d5b5da0331faca010b3afc759f2f48e1779497989b2f039f414b5fde60"
+hash = "02584e62d7d337655d8473d2b7acdf732ce6e7963f57d6af68dafaacfb566cf9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "57868a3d4f540ee418b6d47f1bae6d407a8a0558b5c8266ac4db82c30d05cc65"
+hash = "7236ca6581e13ca629a1509b1d3c362482045cea2142c05f7c992c430be2abf5"
 metafile = true
 
 [[files]]
