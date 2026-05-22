@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ModernUI/bootstrap.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/ModernUI/client.toml"
-hash = "d347d2ce52fa7d623e1b836575df2b059d93ac9cf5f8af173d315e5cff95ca4b"
-
-[[files]]
-file = "config/ModernUI/common.toml"
-hash = "4d62633c4dff81eec0d7559e389346a906a73bcc100fb92299a0c8a6ddf32ceb"
-
-[[files]]
-file = "config/ModernUI/text.toml"
-hash = "76f71651b68eccfbe4efa74874f9b4a62a40a9a039181e99ab3a4d1a30395161"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -79,18 +63,6 @@ hash = "0ce3691bf114d731d9af982f809af2ca88c6cdb2173597f2d82513cdd5610a41"
 [[files]]
 file = "config/azurelib.json"
 hash = "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109"
-
-[[files]]
-file = "config/badoptimizations.txt"
-hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
-
-[[files]]
-file = "config/bandwidthoptimizer-client.toml"
-hash = "0ff170c5e1a2be135b2152456685607d6f67661669536bba29cc45c6a7d97733"
-
-[[files]]
-file = "config/bandwidthoptimizer-common.toml"
-hash = "d485b4f1ed839e8928f368d76a50017b4e9a4a4f75858de11ed7e4f182b971bc"
 
 [[files]]
 file = "config/better-advanced-tooltips-client.toml"
@@ -233,10 +205,6 @@ file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
 [[files]]
-file = "config/coopmoves.json"
-hash = "07e4ad724b2d582db02e1e79fc4bbcfb153ebb40d337b4c1b30eab19fce55fa1"
-
-[[files]]
 file = "config/copycats-client.toml"
 hash = "e315dbb97d8623bcb779383e2b58d22cf2c65b7ca239f73cb34660ee077fecfb"
 
@@ -362,7 +330,7 @@ hash = "98d7ecdde12c615a7ef6183004a3ac81cad35226789fa2a99f2e268899ecbfb2"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "21109517bb77a43973bc917d87400a2ab495b4230012568a35b29bae73363bd0"
+hash = "6b4084800b6be29f7f9d4b207f1e77c2e96db7eca92a74c5235d2fcbaedb7c5d"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -371,10 +339,6 @@ hash = "83f8533502095d987075b6719bcf1a6ddd7eea16266fa2909a4d799da135a00c"
 [[files]]
 file = "config/defaultoptions/servers.dat"
 hash = "6018a386a2759875571b2d9091ecbc5c97a1599515f4f6bfee42596ce7195491"
-
-[[files]]
-file = "config/epicdeathscreen-client.toml"
-hash = "c2fa511fdaf7a40464842c419c62cd3593ee6647cec2a5f648f2728783a81f8d"
 
 [[files]]
 file = "config/explorerscompass-client.toml"
@@ -821,34 +785,6 @@ file = "config/jei-server.toml"
 hash = "57d741871716e29b3a318b625e740d590598f001c362b6a4a95e3ee628c5cbc3"
 
 [[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "ba5c87032d42ddfa9065f1d8580a34ec24a08ae6eb49c420f529389c4a8d223b"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "41529c0995233ba5dce62005e656f740f3bbd61f5cc625a296b0a6fc6b64702b"
-
-[[files]]
-file = "config/jei/jei-client.ini"
-hash = "690df55f936858abf5ed93e681daab91e02b9bea84e128bedf0723556ce19258"
-
-[[files]]
-file = "config/jei/jei-colors.ini"
-hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
-
-[[files]]
-file = "config/jei/jei-debug.ini"
-hash = "39b7d63de65fbf7654ee33d521d67095aa17a93226d2d9b7a6fb09305c8990d4"
-
-[[files]]
-file = "config/jei/jei-mod-id-format.ini"
-hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "7e604acfb9fadf1bc9b0e9462f88397c6df510a6b8e1d8e82acd722002bec9a5"
-
-[[files]]
 file = "config/krypton_fnp.yaml"
 hash = "7637131dbf6d97f0edca39274fa1afdf43260052c0b62649faf51283c5a1f0be"
 
@@ -867,78 +803,6 @@ hash = "2efbd58d0330a2eb357c51c33a4346bce57ff8f4c9226660d3bf1aa549eead4b"
 [[files]]
 file = "config/lostcities-server.toml"
 hash = "2a987393adcddba908cb793dbaa03787ee4f9ea27f08c1f0db388c51e3d56614"
-
-[[files]]
-file = "config/lostcities/common.toml"
-hash = "77b26e68a6e7e9b693b980c84d3cd0d8a68b6819b2b0e319f562f05eb554a12f"
-
-[[files]]
-file = "config/lostcities/profiles/ancient.json"
-hash = "df67f112416e171615b059edd6270b4e80692447e23458721f03d9b675587060"
-
-[[files]]
-file = "config/lostcities/profiles/atlantis.json"
-hash = "9725b9c25fa00ca02000ae1b09b2ecd5c7c33e881d3f8ce449d48a995b958ac5"
-
-[[files]]
-file = "config/lostcities/profiles/bio_wasteland.json"
-hash = "91c7949e7f4800f3f1b41c57f571148896c5eae8dfbe74822a195d519cd7c834"
-
-[[files]]
-file = "config/lostcities/profiles/biosphere.json"
-hash = "a210513b26281e220ba75fb2dbe4fa2f717fef31f91fb3cacdf5c17ef672570e"
-
-[[files]]
-file = "config/lostcities/profiles/biosphere_caves.json"
-hash = "955c62012c8920c98aebb57bf7cac0e74cb50ea3e3b0322a00b4c2fb21813548"
-
-[[files]]
-file = "config/lostcities/profiles/cavern.json"
-hash = "8e64fec26d9f7350832df42852af4f16efa612b4ce185363acb8bbc21cb8604b"
-
-[[files]]
-file = "config/lostcities/profiles/default.json"
-hash = "d4aa45555f9e7a3919bc0e4d8ea213e15e69594c944fc28aa718d922cb0d5cad"
-
-[[files]]
-file = "config/lostcities/profiles/floating.json"
-hash = "2221186244a46f507a5cb04ddccb52b3249641b58b7850d73d6cb2f15451c021"
-
-[[files]]
-file = "config/lostcities/profiles/largecities.json"
-hash = "4a21df9af91ec2d4707322d6aceab26853092fae58c7596757a724036b62a403"
-
-[[files]]
-file = "config/lostcities/profiles/nodamage.json"
-hash = "7608ebec1f811d4c9b4f733ca1ea8daf8b179d21465ac36eda0b4ff8537a8b5d"
-
-[[files]]
-file = "config/lostcities/profiles/onlycities.json"
-hash = "6c91febacb5abe85fc98ebea3feb56fcbdbe7515de600f9233cdfad3702218aa"
-
-[[files]]
-file = "config/lostcities/profiles/rarecities.json"
-hash = "8e15f8c761371ea905c1641edb5dd257a3f0153025895a4706b6dc3a61246acd"
-
-[[files]]
-file = "config/lostcities/profiles/safe.json"
-hash = "7ba6b393b56ebf10a61e53559a2d7d431d53711935d78b605eaecaebb593b9f3"
-
-[[files]]
-file = "config/lostcities/profiles/space.json"
-hash = "2e7ae0defdbc2e8a5c3b3b83515da7cfdadd1f9c63612a328c615f6d59ed5534"
-
-[[files]]
-file = "config/lostcities/profiles/tallbuildings.json"
-hash = "3d960c809a8053351fa84e52dbca23a26bad28a249200a2a94025d6808db40b4"
-
-[[files]]
-file = "config/lostcities/profiles/void_outside.json"
-hash = "09fbc173216c7eef38123f0e28737a1ed106c82f41ddc5bfac3d4ba419c6d3f8"
-
-[[files]]
-file = "config/lostcities/profiles/wasteland.json"
-hash = "5a4942d2f297924015d1f02abd65c5051fbd997e68f083630c442dfc99fce085"
 
 [[files]]
 file = "config/lsp.json"
@@ -967,22 +831,6 @@ hash = "0249260b8d14a9341be9a512be7eddacf6f2b2b8b8461fb80793cee1f09bf8b9"
 [[files]]
 file = "config/modtabs.json"
 hash = "951af13f3d0e7afd61ccdfc8acd9d9d39252767b9bfd905591f92ace3eb1ecec"
-
-[[files]]
-file = "config/modtabs/custom_tabs/example_custom_texture.json"
-hash = "d58488c0b60e50f0f598e3c9b905bbf5bdd6e6e8e6c7f8cd14f84532c02af962"
-
-[[files]]
-file = "config/modtabs/custom_tabs/example_patchouli_book.json"
-hash = "2db20a60b69da773418f25dc124d865940d2451f2ab9d4d639ab8fe52cbaa89a"
-
-[[files]]
-file = "config/modtabs/custom_tabs/example_resource_texture.json"
-hash = "07469477c221a5265bfe7339d8bce04483e478bd8d65662ce8d1ede4e7dc8999"
-
-[[files]]
-file = "config/modtabs/custom_tabs/example_tab.json"
-hash = "6e992250afe579ef3445ac4b14acc5c8871f3126548dac6148479b01053b2f93"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -1025,24 +873,12 @@ file = "config/neoforge-server.toml"
 hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
 [[files]]
-file = "config/nerb/compat/emi.yaml"
-hash = "cc73592e208680c42f5c4e761e55cf394f241ae9e2f1b5e05049805493bf5d0c"
-
-[[files]]
-file = "config/nerb/general.yaml"
-hash = "ec614cafa950e8fb5c77d497a8bb0b0fa44b8f88c0a0b7767515fdb94f116340"
-
-[[files]]
 file = "config/offroad-server.toml"
 hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
-file = "config/otyacraftenginerenewed/client.toml"
-hash = "fdb63df3a632c2172294d93dd23ba46c96162ddb26db18b0a14f1f68115267dc"
-
-[[files]]
-file = "config/otyacraftenginerenewed/client_debug.toml"
-hash = "8f050b5467f258f0b89aac2ccb8149607d9d194ecc0836e701ee1be796084541"
+file = "config/oreexcavation-common.toml"
+hash = "cd2cb213e8effac7644e74f2780fbe43b2ddb5889ad426394cd80aeb516da8a3"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -1055,10 +891,6 @@ hash = "7189bb61c58cb1030b8ee486e66abf694d257192248b9b3ac4978df2b1366f7d"
 [[files]]
 file = "config/particlestorm-common.toml"
 hash = "4bf34341d8e094801d7ce34045dbf5b1d92f05a140c88334f00cf2d403c0a175"
-
-[[files]]
-file = "config/pastel.json5"
-hash = "3d5ef5fe7196355a86fe3b1d6e477136f739e28bc5f794c82dfb427af499f780"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1421,10 +1253,6 @@ file = "config/umapyoi-common.toml"
 hash = "a4c4e575128d9e62769d4c59abe9db9a8cf81fde8ab2f752eaaac832219fbd86"
 
 [[files]]
-file = "config/undertale_death_screen.json"
-hash = "4e275036b423ea5e7941735987ba0dcee8c24e73e2a8c997fb396abdc664f749"
-
-[[files]]
 file = "config/vanillin-client.toml"
 hash = "9aa675dac5136e0342d70434a98ef7806b524343af6fe86e3c4de94094dec0f3"
 
@@ -1496,6 +1324,11 @@ metafile = true
 [[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "b2770d8a39f2b1e8e4b56501381c3facf4fc68b17262be08c07651d93a39fb93"
+metafile = true
+
+[[files]]
+file = "mods/annuus-no-daisy.pw.toml"
+hash = "03d8777b8d6d9a8bd2bdae912531251e9822f5855e08acb8af3dc7e4d22dbab6"
 metafile = true
 
 [[files]]
@@ -1766,6 +1599,11 @@ metafile = true
 [[files]]
 file = "mods/create-radars.pw.toml"
 hash = "5e52d602957d8bd579a6720cffcc27e577e1644bbde95a1913e2f9bd41a955fd"
+metafile = true
+
+[[files]]
+file = "mods/create-redstone-link-gui.pw.toml"
+hash = "553bb6439cb8ad0959f74f021d61890714dbb5094e0593a19c294f3d3e25cebd"
 metafile = true
 
 [[files]]
@@ -2136,6 +1974,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "805ad32e190ddbef3757cb5fc8cfc4ba1092a5de712e4b60d931dd2815d62365"
+metafile = true
+
+[[files]]
+file = "mods/ore-excavation.pw.toml"
+hash = "ba7c5b92dd1bcfba50934842522f1029bffc8d306430a2cd50dffba958c8ed63"
 metafile = true
 
 [[files]]
