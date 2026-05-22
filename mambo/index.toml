@@ -330,7 +330,7 @@ hash = "98d7ecdde12c615a7ef6183004a3ac81cad35226789fa2a99f2e268899ecbfb2"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "6b4084800b6be29f7f9d4b207f1e77c2e96db7eca92a74c5235d2fcbaedb7c5d"
+hash = "6acd5f51915d485dda1323d0d48edc4083e7a86e503f23723b0c21ea45542d25"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -879,6 +879,18 @@ hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 [[files]]
 file = "config/oreexcavation-common.toml"
 hash = "cd2cb213e8effac7644e74f2780fbe43b2ddb5889ad426394cd80aeb516da8a3"
+
+[[files]]
+file = "config/oreexcavation/block_groups.json"
+hash = "c10846e015d2fb6bdbaf3c3271ae6a2ee17c31596949793b401cd390be091510"
+
+[[files]]
+file = "config/oreexcavation/shapes.json"
+hash = "ced276868926b515d7a191efaeb2bb57bcd0d2b6df36364312e136052fffc49b"
+
+[[files]]
+file = "config/oreexcavation/tool_overrides.json"
+hash = "a456dc73234254ee94ddb1a3a6461729127c85b833370c83bb945a3d14e5344e"
 
 [[files]]
 file = "config/particle_core_config.toml"
