@@ -430,7 +430,7 @@ hash = "9725917aef4a54dae46a3aa11a4c89e02367c9764201e89497b106ff0ad4e833"
 
 [[files]]
 file = "config/fragmentum/data/augustmc/function/unlock_items.mcfunction"
-hash = "b9f3f9aaa325bf2ba86370b849c15d08b5183b911d71adab046336076ef62f0a"
+hash = "53f614eae37450db7f8d10e7b637963ab50fffc1b5c1d461b2f8a8ec2a71cfe0"
 
 [[files]]
 file = "config/fragmentum/data/augustmc/item_modifier/telepass.json"

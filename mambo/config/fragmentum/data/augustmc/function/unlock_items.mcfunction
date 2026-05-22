@@ -403,9 +403,6 @@ unlockitem explorerscompass:explorerscompass
 unlockitem cbc_autotarget:controller
 unlockitem cbc_autotarget:commander
 unlockitem cbc_autotarget:cartridge_collector
-unlockitem cbc_autotarget:fire_block
-unlockitem cbc_autotarget:pitch_block
-unlockitem cbc_autotarget:yaw_block
 unlockitem telepass:gold_telepass
 unlockitem sophisticatedbackpacks:backpack
 unlockitem patchouli:guide_book
