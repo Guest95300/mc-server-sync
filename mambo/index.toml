@@ -761,6 +761,10 @@ file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
 hash = "555db3486cca416d79de0b4ee903572bbb4f6f6c2875af5c91ee3e1314038cf6"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "6f8daf01a42f9b5520f4664e3e705b785faeb28da8f382d4d9eb1340884a3bf2"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
 
@@ -1339,11 +1343,6 @@ hash = "b2770d8a39f2b1e8e4b56501381c3facf4fc68b17262be08c07651d93a39fb93"
 metafile = true
 
 [[files]]
-file = "mods/annuus-no-daisy.pw.toml"
-hash = "03d8777b8d6d9a8bd2bdae912531251e9822f5855e08acb8af3dc7e4d22dbab6"
-metafile = true
-
-[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "7b57ed7866de0f4bf6e822683558e243244d887290ad2bdcaf06f2400263677c"
 metafile = true
@@ -1844,6 +1843,11 @@ hash = "3eac660d7b153032be3bc6c6417a3a490571bc17787bcfcc96fc71921e22e600"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "95d5630b5f4bfbfbfc0699b5f190f8453f1b167050003099188d7f711bb5f1ce"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "2e42cda2a106f90bca4a7575357bbf34e26fdd0d49787a403fc201d94f856127"
 metafile = true
@@ -1976,6 +1980,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "74a396cda05743ce3f855558086789bd8a3aa84ac901993d0adeb06995a7ca85"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "b190a62d437e172e26364eecb901f6b58c227b73f2aa4c2de2bc0ec5fef19c7c"
 metafile = true
 
 [[files]]
