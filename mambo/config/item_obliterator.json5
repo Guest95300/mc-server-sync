@@ -16,12 +16,79 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "confluence:dynamite",
- "confluence:bouncy_dynamite",
- "confluence:sticky_dynamite",
- "confluence:bomb",
- "confluence:bouncy_bomb",
- "confluence:sticky_bomb"
+"confluence:dynamite",
+"confluence:bouncy_dynamite",
+"confluence:sticky_dynamite",
+"confluence:bomb",
+"confluence:bouncy_bomb",
+"confluence:sticky_bomb",
+"confluence:chlorophyte_repeater",
+"confluence:titanium_trident",
+"confluence:daedalus_storm_bow",
+"confluence:cobalt_sword",
+"confluence:cobalt_repeater",
+"confluence:palladium_repeater",
+"confluence:mythril_repeater",
+"confluence:orichalcum_repeater",
+"confluence:adamantite_repeater",
+"confluence:titanium_repeater",
+"confluence:hallowed_repeater",
+"confluence:adamantite_glaive",
+"confluence:palladium_sword",
+"confluence:mythril_sword",
+"confluence:orichalcum_sword",
+"confluence:adamantite_sword",
+"confluence:flower_of_frost",
+"confluence:crystal_vile_shard",
+"confluence:cursed_flames",
+"confluence:golden_shower",
+"confluence:titanium_sword",
+"confluence:palladium_pike",
+"confluence:orichalcum_halberd",
+"confluence:mythril_halberd",
+"confluence:titanium_trident",
+"confluence:orichalcum_headgear",
+"confluence:orichalcum_mask",
+"confluence:orichalcum_helmet",
+"confluence:orichalcum_chestplate",
+"confluence:orichalcum_leggings",
+"confluence:orichalcum_boots",
+"confluence:cobalt_mask",
+"confluence:cobalt_hat",
+"confluence:cobalt_helmet",
+"confluence:cobalt_chestplate",
+"confluence:cobalt_leggings",
+"confluence:cobalt_boots",
+"confluence:palladium_mask",
+"confluence:palladium_headgear",
+"confluence:palladium_helmet",
+"confluence:palladium_chestplate",
+"confluence:palladium_leggings",
+"confluence:palladium_boots",
+"confluence:mythril_hood",
+"confluence:mythril_hat",
+"confluence:mythril_helmet",
+"confluence:mythril_chestplate",
+"confluence:mythril_leggings",
+"confluence:mythril_boots",
+"confluence:adamantite_headgear",
+"confluence:adamantite_mask",
+"confluence:adamantite_helmet",
+"confluence:adamantite_chestplate",
+"confluence:adamantite_leggings",
+"confluence:adamantite_boots",
+"confluence:titanium_headgear",
+"confluence:titanium_mask",
+"confluence:titanium_helmet",
+"confluence:titanium_chestplate",
+"confluence:titanium_leggings",
+"confluence:titanium_boots",
+"confluence:developer_sword",
+"confluence:developer_boomerang",
+"confluence:developer_bow",
+"confluence:dev_fishing_rod",
+"confluence:chlorophyte_partisan",
+"confluence:gungnir",
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
@@ -47,7 +114,7 @@
   // Items here will get their recipes disabled
   // Keep in mind this already is applied to blacklisted items
   "only_disable_recipes": [
-    "examplemod:example_item"
+    "skyfalltesla:nikolas_journal"
   ],
   // -----------------------------------------------------------
   // If true, the mod will use a hashset to handle the blacklisted items
@@ -56,5 +123,5 @@
   //  
   // [!] Enabling this will disable all regular expressions
   // [!] Does not apply to NBT, only item blacklist / interaction / attack
-  "use_hashmap_optimizations": false
+  "use_hashmap_optimizations": true
 }
