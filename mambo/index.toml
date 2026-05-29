@@ -2836,13 +2836,13 @@ hash = "1f0b003d1026ce44e825134a391eb2a59ae38d76b9c06afb2b8af11a9781a432"
 metafile = true
 
 [[files]]
-file = "mods/ritchies-projectile-library.pw.toml"
-hash = "b05da92e770b06e6939812715bddec29b51c4bf6ccdcac8995207ed8ce02b6bd"
+file = "mods/royal-variations.pw.toml"
+hash = "eca5774d95bdb5a58d63c068ed34f67d39252f184eade89c550d040c6b01eab5"
 metafile = true
 
 [[files]]
-file = "mods/royal-variations.pw.toml"
-hash = "eca5774d95bdb5a58d63c068ed34f67d39252f184eade89c550d040c6b01eab5"
+file = "mods/rpl.pw.toml"
+hash = "c8b3101ed5c68efc9ec231024172d18378a885e56bdb517c6160e53f7d12e807"
 metafile = true
 
 [[files]]
