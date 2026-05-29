@@ -2631,6 +2631,11 @@ hash = "86e92f3282d9f6c773dbdd844b7992794316ab2fe0bfdda93a6bf8657e9b65ca"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "b1a2726f83e498bd48de7161803c7262639f6faebd3c9e4c58394d370e6b420d"
+metafile = true
+
+[[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "163d922b4c0fd40c68ebd11f9cda424c491cd179a9c4e86500d713cb7e75c312"
 metafile = true
