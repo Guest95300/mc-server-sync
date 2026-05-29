@@ -13,14 +13,6 @@ file = "config/aces_spell_utils-common.toml"
 hash = "941c8a4f285c5764d7dda52dad71820e234d0025e1c7a12afed88a23e9fb5560"
 
 [[files]]
-file = "config/aero_cam_sync-client-1.toml.bak"
-hash = "4b385e767e25e50d1ac109a355429f083bf67d35970d258df60369f188221f35"
-
-[[files]]
-file = "config/aero_cam_sync-client.toml"
-hash = "ef4bb2cae55f5a853731358deb77535fde4bb2f7fed7d786332787ef11aef864"
-
-[[files]]
 file = "config/aeronautics-server.toml"
 hash = "00385f2fd590354af6a8abd95455e6e4db33f2eab936c37213a5e5557cbe4ab5"
 
@@ -31,10 +23,6 @@ hash = "28969de26284882b050aa680f4b84c833f227f9831debd00b183b83ab5afdbd2"
 [[files]]
 file = "config/aeroworks-common.toml"
 hash = "6ccfda9bf0ad29197fe3b8a0f6914be1cb9b415ea6e74b54775005cd6f83318c"
-
-[[files]]
-file = "config/aftershock.json"
-hash = "833a55b81e39de20672b8dad4ae2e9f5fce0f5156c53d4487b7741d0a32f363d"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -121,14 +109,6 @@ file = "config/cbc_at-server.toml"
 hash = "22f128ac2ac98719086859030eddeb0300d51653cca6888ca41cdd9e6848cfdd"
 
 [[files]]
-file = "config/cbc_autotarget-server.toml"
-hash = "fef4158d4077a85193de6bf41590f22907fa26e871d92c820b1bc4c55299c5df"
-
-[[files]]
-file = "config/cbc_ballistics-common.toml"
-hash = "ee044bbf466c2be9de4e0f2b7e35f38771dbf4e71aa4f97df4875c8f003131df"
-
-[[files]]
 file = "config/champions-client.toml"
 hash = "555325197c9dc4b3dadde921b4f713f042655acc3a78dd35d067f6c0a1b15b9e"
 
@@ -151,14 +131,6 @@ hash = "dfa822457d8c03544aa0d87b56d72c7e53b06c549016dc30972375c512bd6d98"
 [[files]]
 file = "config/chloride-client.json"
 hash = "ba91720a3afc8cb297c8a050d0d6984cf0149ec47bc6f66acc6997a05f1da985"
-
-[[files]]
-file = "config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
-
-[[files]]
-file = "config/chunky/tasks/minecraft/overworld.properties"
-hash = "cf5a942200d76d280c0ad3e8f09fc34d7fe5dddfc35189d29649452e2f4ed176"
 
 [[files]]
 file = "config/citadel-common.toml"
@@ -873,22 +845,6 @@ file = "config/fzzy_config/keybinds.toml"
 hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
-file = "config/gigeresque.json"
-hash = "d777bb8a4e30173aa7fb13ec139ad937e95b0c8dedcb89912d2d1562823beb21"
-
-[[files]]
-file = "config/grapplemod-client.json"
-hash = "4d5d43e05581276931d81a19e9f58eb441ebe6edea9efaacdb943eeaabd3e50f"
-
-[[files]]
-file = "config/grapplemod-common.json"
-hash = "a4d05974cb8f34f0edec22dc5fc8907bd898df1675d3cd7294ae3d9b2113c723"
-
-[[files]]
-file = "config/grapplemod-properties.json"
-hash = "ec22ff35a951ebc0dabcf313b200dc893e537cbeb8d86994bf5075b35938711b"
-
-[[files]]
 file = "config/gun_scaling/main.toml"
 hash = "3b604a89c13efec98d72baaedc786c3f26a33896d2553dbc9007482f200a909f"
 
@@ -1321,18 +1277,6 @@ file = "config/recreative/modify_tabs.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/recreative_exports/blocks.json"
-hash = "36c49fbb3270824be1387538cb8651363089029e668b9e9047f31baffe36770e"
-
-[[files]]
-file = "config/recreative_exports/items.json"
-hash = "ab04940c59f90795334c29373a611d7b1ca5d4d739aee019c80b8a24e34d0653"
-
-[[files]]
-file = "config/recreative_exports/tabs.json"
-hash = "cc144b6af4cb7430b29344580df67d33b0b85c7379328d90a93571497512a998"
-
-[[files]]
 file = "config/recreative_settings.json"
 hash = "c74c516a193e42450bc2947c46df59d72910af8a108f38cc0fb28b44b9a98f93"
 
@@ -1353,28 +1297,12 @@ file = "config/ritchiesprojectilelib-server.toml"
 hash = "0118936ae0375d6c318582b47e0cf631540ba683d4a5db25a3ca7f090eda54c1"
 
 [[files]]
-file = "config/royalvariations-1.toml.bak"
-hash = "130d11c0b4ba44fc65ddf5dff8424b7cfba4315d8dd2d7336901099cd7fa6882"
-
-[[files]]
-file = "config/royalvariations-2.toml.bak"
-hash = "130d11c0b4ba44fc65ddf5dff8424b7cfba4315d8dd2d7336901099cd7fa6882"
-
-[[files]]
 file = "config/royalvariations.toml"
 hash = "de23dbf98f321e37c72934ca5abce55b2d8e509f25c90e7906a6be508f264cbf"
 
 [[files]]
-file = "config/sable-client.toml"
-hash = "1a4676e6136f117f2587d32991720455c0a1b204498ebc7eb21e83f5912df222"
-
-[[files]]
 file = "config/sable-common.toml"
 hash = "9a1ba0617b4544eb8bded0995de05f26837fdc53215453ccc58012b468ff9dde"
-
-[[files]]
-file = "config/sablecollisiondamage-common.toml"
-hash = "6ad04ce54095bd22ae0cf919c852bf724e109b0aa43399a3591e70caf15c88c0"
 
 [[files]]
 file = "config/sabletrueimpact-server.toml"
@@ -1385,36 +1313,12 @@ file = "config/saturn-optimizations.toml"
 hash = "f18ce3963bfb77822357b4a45f901cd036113a607d284ffcb074dcbfac6792c1"
 
 [[files]]
-file = "config/scguns-client.toml"
-hash = "255f99fe79ed996d1df05e86e57ad786612d6661cc58ad39bc03ee394a6028e8"
-
-[[files]]
-file = "config/scguns-common.toml"
-hash = "a8ec6680e641b4d06e57f4ca34756a0203c4d9810a1198ca53553a32e6666428"
-
-[[files]]
-file = "config/scguns-server.toml"
-hash = "fe0bc4e6623153b66f84a74d7975a9461a7931fa339e3a2d22993924c9e747b1"
-
-[[files]]
 file = "config/simple-rpc/server-entries.toml"
 hash = "6dfd7e6dfd8bb89d93c9eadc92716a7d8cd05005f526beec8174db4ca3ebb019"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "a0b0557e087c50c0ddbc48bc0a07938c9b1886235ee81f0d5fbfec66d106b577"
-
-[[files]]
-file = "config/simpleclouds-client.toml"
-hash = "ef5efa4465ea8573e3c44d5656eb51c2a82904c8f472a11ed8acb3507c1583ca"
-
-[[files]]
-file = "config/simpleclouds-common.toml"
-hash = "1a8f15342cdda674661e2e1883f56ae591b8daf580315baa3a99d2f200ad204b"
-
-[[files]]
-file = "config/simpleclouds-server.toml"
-hash = "a3679c2d577d1ec0a0017e2b1571b40032f895438eefb4feca1a105103d74348"
 
 [[files]]
 file = "config/simulated-client.toml"
@@ -1511,10 +1415,6 @@ hash = "14210291891759b831951eba24c65985ed5bd27a7d09b6383aeb9fd3e8f1bc8c"
 [[files]]
 file = "config/surveyor.toml"
 hash = "d00596342fc840292ccd2e454a973035007672cf3b1fb43cd4cb898c5e551ade"
-
-[[files]]
-file = "config/synaxis/control_chair_bindings.json"
-hash = "e3677c58e525dddd7bf0c4b448e3196c787f153cdfc5b4be4def718bfe162a1f"
 
 [[files]]
 file = "config/telepass-common.toml"
@@ -1635,14 +1535,6 @@ hash = "a4c4e575128d9e62769d4c59abe9db9a8cf81fde8ab2f752eaaac832219fbd86"
 [[files]]
 file = "config/vanillin-client.toml"
 hash = "9aa675dac5136e0342d70434a98ef7806b524343af6fe86e3c4de94094dec0f3"
-
-[[files]]
-file = "config/vista-client-1.toml.bak"
-hash = "95b2e71cb9b4b3cbc2afbef4937013dabeb9c65925b5345310f6bc360da59e0b"
-
-[[files]]
-file = "config/vista-client-2.toml.bak"
-hash = "70349948bd6fe27b7cb8ecb3555d6f4b90870e7f57015d32737adda468989e63"
 
 [[files]]
 file = "config/vista-client.toml"
