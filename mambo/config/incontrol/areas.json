@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "dimension": "minecraft:overworld",
+    "name": "spawn",
+    "type": "box",
+    "x": -69,
+    "y": 123,
+    "z": 34,
+    "dimx": 200,
+    "dimy": 67,
+    "dimz": 200
+  }
+]

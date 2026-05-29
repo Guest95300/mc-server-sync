@@ -1,0 +1,17 @@
+filename = 'DailyBoss-BossesRise-1.21.1-1.1.jar'
+name = "Daily Boss x Bosses'Rise"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DailyBoss-BossesRise-1.21.1-1.1.jar'
+
+[download]
+hash = '772d4da1cb0144944611ea38a4e1a7ab7ed9ff7a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7696092
+project-id = 1377888

@@ -1,0 +1,17 @@
+filename = 'DailyBoss-Cataclysm-1.21.1-1.1.jar'
+name = "Daily Boss x L_Ender 's Cataclysm"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DailyBoss-Cataclysm-1.21.1-1.1.jar'
+
+[download]
+hash = 'b49cd06ec5bdb215be1dd35597b17ca8003c7b0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7629673
+project-id = 1382015

@@ -8,8 +8,8 @@
   "bossesDespawn": true,
   "peacefulDifficultyBossDamageMuliplier": 0.5,
   "easyDifficultyBossDamageMultiplier": 0.75,
-  "normalDifficultyBossDamageMultiplier": 1.0,
-  "hardDifficultyBossDamageMultiplier": 1.25,
+  "normalDifficultyBossDamageMultiplier": 1.75,
+  "hardDifficultyBossDamageMultiplier": 3.25,
   "chesedConfig": {
     "chesedMaxHits": 10,
     "_comment_electrifiedAirCurrentHealthDamagePercent": "Defence from flight",
@@ -26,11 +26,11 @@
     "blockAttackDamage": 10.0,
     "rayDamage": 10.0,
     "fireTrailDamage": 2.0,
-    "finalAttackDamagePercentPerMonolith": 30.0,
+    "finalAttackDamagePercentPerMonolith": 50.0,
     "_comment_healthAfterSecondPhaseTransition": "If health is greater than value, sets the health equal to the value",
-    "healthAfterSecondPhaseTransition": 30.0,
+    "healthAfterSecondPhaseTransition": 500.0,
     "_comment_additionalSecondPhaseMonolithHP": "Monolith hp gain when second phase starts",
-    "additionalSecondPhaseMonolithHP": 300.0
+    "additionalSecondPhaseMonolithHP": 2000.0
   },
   "effectConfig": {
     "shockDamageReductionPercent": 25.0
@@ -63,11 +63,11 @@
     "jumpBackOnSpawnCrushDamage": 30.0,
     "impalingDoomDamage": 30.0,
     "fireballsDamage": 50.0,
-    "cannonDamage": 20.0,
+    "cannonDamage": 15.0,
     "nonWeakToDamageReduction": 100.0,
-    "malkuthMaxHits": 10,
-    "malkuthWarriorDamage": 10.0,
-    "malkuthWarriorEarthSlamDamage": 10.0,
+    "malkuthMaxHits": 30,
+    "malkuthWarriorDamage": 25.0,
+    "malkuthWarriorEarthSlamDamage": 20.0,
     "malkuthFloorDamage": 20.0,
     "chainpunchCooldown": 150
   },
@@ -80,6 +80,6 @@
     "earthquakeDamage": 30.0,
     "cannonProjectileDamage": 30.0,
     "ultimateMoveHealthPercentage": 50.0,
-    "maxPlayerSins": 5
+    "maxPlayerSins": 10
   }
 }

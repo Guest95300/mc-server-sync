@@ -1,0 +1,1 @@
+$execute as @e[type=block_factorys_bosses:infernal_dragon] at @s if score @s yharon_attack matches $(yharon_attack).. run function augustmc:yharon_attack

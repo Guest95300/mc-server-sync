@@ -2,16 +2,16 @@ filename = 'dbmbneo-1.0.3.jar'
 name = 'Daily Boss - More Bosses'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1', '1.21.10', '1.21.11', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8', '1.21.9' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.3'
+x-prismlauncher-version-number = 'dbmbneo-1.0.3.jar'
 
 [download]
-hash = '8344feebf4dcd49b0d0f36835d51e508b561f8ddbdae3332630845110617d4b1743942578ae4cbea62f34cde56cd38172d82444c227468efa50115f06c9d9d40'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/ulufZYAG/versions/NUhSHzAT/dbmbneo-1.0.3.jar'
+hash = 'ce56b53d913b1f612d7cf882899edcd2c92343b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'ulufZYAG'
-version = 'NUhSHzAT'
+[update.curseforge]
+file-id = 7553646
+project-id = 1339255

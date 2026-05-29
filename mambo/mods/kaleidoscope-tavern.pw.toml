@@ -1,0 +1,17 @@
+filename = 'kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar'
+name = 'Kaleidoscope Tavern'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'kaleidoscopetavern-1.1.2-neoforge+mc1.21.1.jar'
+
+[download]
+hash = '0521837273c5cf4c68d89eaf248bc6e8585d89b8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8091783
+project-id = 1475175

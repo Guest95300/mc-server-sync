@@ -4,14 +4,14 @@ side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.2'
+x-prismlauncher-version-number = 'aeronauticscompat-1.1.2.jar'
 
 [download]
-hash = 'e4bf1c16e476d47f2b09d3b5bf6c8713bf7d474019dca871a24a6ea1e35f12288e6aed276004c310ddfd53af80c5415927c8bde2abc0b1005531fce918ea7c90'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/aLVC5usA/versions/QTtIbBua/aeronauticscompat-1.1.2.jar'
+hash = '64044986287367e7f638012c931d8a23528bee41'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'aLVC5usA'
-version = 'QTtIbBua'
+[update.curseforge]
+file-id = 7996938
+project-id = 1524351

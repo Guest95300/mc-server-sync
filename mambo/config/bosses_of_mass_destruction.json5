@@ -1,63 +1,55 @@
 {
 	"lichConfig": {
 		"eternalNighttime": true,
-		"experienceDrop": 1500,
-		"idleHealingPerTick": 0.4399999976158142,
-		"health": 900.0,
+		"experienceDrop": 2500,
+		"idleHealingPerTick": 400.0,
+		"health": 6666.0,
 		"missile": {
-			"mobEffectId": "minecraft:slowness",
+			"mobEffectId": "cataclysm:stun",
 			"mobEffectDuration": 80,
 			"mobEffectAmplifier": 3,
-			"damage": 5.0
+			"damage": 30.0
 		},
 		"comet": {
-			"explosionStrength": 6.0
+			"explosionStrength": 9.0
 		},
 		"summonMechanic": {
 			"isEnabled": true,
 			"entitiesThatCountToSummonCounter": [
-				"minecraft:skeleton",
 				"minecraft:giant",
 				"minecraft:phantom",
-				"minecraft:zoglin",
-				"minecraft:zombified_piglin",
-				"minecraft:wither_skeleton",
-				"minecraft:husk",
-				"minecraft:skeleton_horse",
-				"minecraft:stray",
-				"minecraft:zombie_horse",
-				"minecraft:zombie",
-				"minecraft:drowned",
-				"minecraft:wither",
-				"minecraft:zombie_villager"
+				"alexscaves:forsaken",
+				"terra_entity:skeletron",
+				"terra_entity:wraith",
+				"alexscaves:brainiac"
 			],
-			"numEntitiesKilledToDropSoulStar": 150
+			"numEntitiesKilledToDropSoulStar": 350
 		}
 	},
 	"obsidilithConfig": {
-		"health": 1200.0,
-		"armor": 25.0,
-		"attack": 16.0,
-		"idleHealingPerTick": 0.5,
-		"experienceDrop": 1000,
+		"health": 12800.0,
+		"armor": 38.0,
+		"attack": 74.0,
+		"idleHealingPerTick": 500.5,
+		"experienceDrop": 8000,
 		"spawnPillarOnDeath": true,
-		"anvilAttackExplosionStrength": 5.0
+		"anvilAttackExplosionStrength": 18.0
 	},
 	"gauntletConfig": {
-		"health": 800.0,
-		"armor": 12.0,
-		"attack": 16.0,
-		"idleHealingPerTick": 0.5,
-		"experienceDrop": 1000,
+		"health": 9400.0,
+		"armor": 25.0,
+		"attack": 25.0,
+		"idleHealingPerTick": 100.5,
+		"experienceDrop": 4000,
 		"spawnAncientDebrisOnDeath": true,
-		"energizedPunchExplosionSize": 7.5,
-		"normalPunchExplosionMultiplier": 3.5
+		"energizedPunchExplosionSize": 20.5,
+		"normalPunchExplosionMultiplier": 10.5
 	},
 	"voidBlossomConfig": {
-		"health": 1500.0,
-		"armor": 13.0,
-		"attack": 12.0,
-		"idleHealingPerTick": 1.5,
+		"health": 8888.0,
+		"armor": 12.0,
+		"attack": 49.0,
+		"idleHealingPerTick": 300.5,
 		"experienceDrop": 1000
 	},
 	"generalConfig": {

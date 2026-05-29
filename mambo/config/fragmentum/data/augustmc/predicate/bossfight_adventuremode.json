@@ -1,0 +1,13 @@
+{
+  "condition": "minecraft:all_of",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "augustmc:bossfight_must_break_blocks"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "augustmc:mamboss"
+    }
+  ]
+}

@@ -67,10 +67,10 @@
 		#Multiply all damage done with the ice crystal by this amount.
 		# Default: 1.0
 		# Range: 0.0 ~ 1.7976931348623157E308
-		attack_multiplier = 2.3
+		attack_multiplier = 5.3
 		#Set to true for the ice crystal to have limited durability.
 		#Prevents regeneration in inventory.
-		breakable = false
+		breakable = true
 		#Ice crystal durability
 		# Default: 600
 		# Range: > 1
@@ -84,7 +84,7 @@
 			#Multiply armor damage reduction by this amount. See official Minecraft Wiki for an explanation of how armor damage reduction works.
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			damage_reduction_multiplier = 1.0
+			damage_reduction_multiplier = 2.0
 			#Multiply armor toughness by this amount. See official Minecraft Wiki for an explanation of how armor toughness works.
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
@@ -94,7 +94,7 @@
 			#Multiply armor damage reduction by this amount. See official Minecraft Wiki for an explanation of how armor damage reduction works.
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			damage_reduction_multiplier = 1.0
+			damage_reduction_multiplier = 2.0
 			#Multiply armor toughness by this amount. See official Minecraft Wiki for an explanation of how armor toughness works.
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
@@ -253,7 +253,7 @@
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 1.15
+			attack_multiplier = 4.15
 
 	[mobs.umvuthi]
 		#Disable/enable Umvuthi's boss health bar
@@ -322,7 +322,7 @@
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 3.1
+			attack_multiplier = 9.1
 
 	[mobs.ferrous_wroughtnaut]
 		#Disable/enable Ferrous Wroughtnaut's boss health bar
@@ -646,11 +646,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			health_multiplier = 6.8
+			health_multiplier = 16.8
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.0 ~ 1.7976931348623157E308
-			attack_multiplier = 3.18
+			attack_multiplier = 5.18
 
 		[mobs.naga.biome_config]
 			#Mowzie's Mobs bosses cannot generate in modded or non-overworld biomes unless the biome is added to the 'has_structure/has_mowzie_structure' tag via a datapack!

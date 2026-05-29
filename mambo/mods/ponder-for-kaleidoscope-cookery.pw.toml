@@ -4,14 +4,14 @@ side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.0'
+x-prismlauncher-version-number = 'ponderforkc-1.0.0-1.21.1.jar'
 
 [download]
-hash = 'a842427f6f9214dbdd1fbb3f817a679f6f40940f7459ab153daef13a7dcaeca84ac542466bc17f7b1050ce05b681de8bf176e5cb7cc39ba821c47ab22d748471'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/I5JahfLa/versions/grCjEcqZ/ponderforkc-1.0.0.jar'
+hash = 'd615e051573998f2d71b6c7ee1f56fa19c91dbd8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
 
-[update.modrinth]
-mod-id = 'I5JahfLa'
-version = 'grCjEcqZ'
+[update.curseforge]
+file-id = 7661880
+project-id = 1467051

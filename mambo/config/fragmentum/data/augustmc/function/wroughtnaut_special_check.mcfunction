@@ -1,0 +1,1 @@
+$execute as @e[type=mowziesmobs:ferrous_wroughtnaut] at @s if score @s wroughtnaut_special matches $(wroughtnaut_special).. run function augustmc:wroughtnaut_special

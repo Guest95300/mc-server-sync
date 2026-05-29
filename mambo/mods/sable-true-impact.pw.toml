@@ -1,0 +1,17 @@
+filename = 'sabletrueimpact-1.1.0-gamma.jar'
+name = 'Sable: True Impact'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'sabletrueimpact-1.1.0-gamma.jar'
+
+[download]
+hash = '8ac14589993bd3d35d4334a2e2a0e2d142a81f12'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8135992
+project-id = 1544491

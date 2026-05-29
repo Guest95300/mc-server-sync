@@ -1,0 +1,1 @@
+execute if data storage kubejs:storage restrictions{active:1} as @a run function augustmc:boss_active_restrictitems

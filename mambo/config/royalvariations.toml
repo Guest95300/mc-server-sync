@@ -2,7 +2,7 @@
 		#Spawn Weight for Royal Zombie, set to 0 to disable spawn, Default: 9
 		# Default: 9
 		# Range: > 0
-		royalZombieSpawnWeight = 9
+		royalZombieSpawnWeight = 12
 		#Spawn minimum group count for Royal Zombie, Default: 1
 		# Default: 1
 		# Range: > 1
@@ -16,7 +16,7 @@
 		#Spawn Weight for Royal Skeleton, set to 0 to disable spawn, Default: 9
 		# Default: 9
 		# Range: > 0
-		royalSkeletonSpawnWeight = 9
+		royalSkeletonSpawnWeight = 12
 		#Spawn minimum group count for Royal Skeleton, Default: 1
 		# Default: 1
 		# Range: > 1
@@ -30,7 +30,7 @@
 		#Spawn Weight for Royal Creeper, set to 0 to disable spawn, Default: 9
 		# Default: 9
 		# Range: > 0
-		royalCreeperSpawnWeight = 9
+		royalCreeperSpawnWeight = 12
 		#Spawn minimum group count for Royal Creeper, Default: 1
 		# Default: 1
 		# Range: > 1
@@ -44,7 +44,7 @@
 		#Spawn Weight for Royal Enderman, set to 0 to disable spawn, Default: 5
 		# Default: 5
 		# Range: > 0
-		royalEndermanSpawnWeight = 5
+		royalEndermanSpawnWeight = 9
 		#Spawn minimum group count for Royal Enderman, Default: 1
 		# Default: 1
 		# Range: > 1

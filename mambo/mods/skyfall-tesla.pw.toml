@@ -1,0 +1,17 @@
+filename = 'skyfalltesla-1.0.3.jar'
+name = 'Skyfall: Tesla'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'skyfalltesla-1.0.3 [NEOFORGE].jar'
+
+[download]
+hash = 'ebc93c1a93f00ebb56bbdf452d513a29ddaf8806'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8012886
+project-id = 1479340

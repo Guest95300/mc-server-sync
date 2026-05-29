@@ -4,9 +4,9 @@
 	#The range from an active beacon where no champions will spawn (0 to disable)
 	# Default: 64
 	# Range: 0 ~ 1000
-	beaconProtectionRange = 64
+	beaconProtectionRange = 0
 	#Set to true to enable champions from normal mob spawners
-	championSpawners = false
+	championSpawners = true
 	#Set to true to enable champions from trial spawners
 	championTrialSpawners = false
 	#The minimum tier of champions that will have death messages sent out upon defeat (0 to disable)
@@ -32,7 +32,7 @@
 	#Set to true to show champion tier and affixes in The One Probe overlay
 	enableTOPIntegration = true
 	#Set to true to enable champions entity allow list configuration by datapack
-	allowChampionsList = true
+	allowChampionsList = false
 	#The permission of champions entity allow list datapack.
 	#Allowed Values: BLACKLIST, WHITELIST
-	allowChampionsPermission = "WHITELIST"
+	allowChampionsPermission = "BLACKLIST"

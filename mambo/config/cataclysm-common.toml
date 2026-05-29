@@ -412,11 +412,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 50.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.0
+			attack_multiplier = 3.0
 
 		[mobs.ender_guardian.cap_config]
 			#Damage Cap
@@ -460,11 +460,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 50.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.ender_golem.cap_config]
 			#Damage Cap
@@ -530,11 +530,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 40.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.netherite_monstrosity.cap_config]
 			#Damage Cap
@@ -572,11 +572,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 50.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 	[mobs.ignis]
 		#Ignis's Life steal Multiplier
@@ -590,11 +590,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 60.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.ignis.cap_config]
 			#Damage Cap
@@ -638,11 +638,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 30.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 	[mobs.harbinger]
 		#Harbinger Auto Heal
@@ -678,11 +678,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 65.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.harbinger.cap_config]
 			#Damage Cap
@@ -738,11 +738,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 20.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 	[mobs.amethyst_crab]
 		#Earth Quake Damage
@@ -758,11 +758,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 20.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 	[mobs.leviathan]
 		#Bite Hp Damage
@@ -810,11 +810,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 50.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.leviathan.cap_config]
 			#Damage Cap
@@ -844,11 +844,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 50.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 	[mobs.ancient_remnant]
 		#Charge Hp Damage
@@ -876,11 +876,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 50.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.ancient_remnant.cap_config]
 			#Damage Cap
@@ -918,11 +918,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 50.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 	[mobs.koboleton]
 		#CauseKoboletontoDropItemInHandPercent
@@ -934,11 +934,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 15.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.kobolediator.ignore_mobgriefing_config]
 			#Ignore MobGriefing
@@ -958,11 +958,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 20.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 	[mobs.maledictus]
 		#Phantom Halberd Damage
@@ -998,11 +998,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 55.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.maledictus.cap_config]
 			#Damage Cap
@@ -1042,11 +1042,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 30.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.aptrgangr.nature_heal_config]
 			#Nature Heal
@@ -1094,11 +1094,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 50.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.scylla.cap_config]
 			#Damage Cap
@@ -1136,11 +1136,11 @@
 			#Scale mob health by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			health_multiplier = 2.8
+			health_multiplier = 20.0
 			#Scale mob attack damage by this value
 			# Default: 1.0
 			# Range: 0.1 ~ 1000000.0
-			attack_multiplier = 1.8
+			attack_multiplier = 3.0
 
 		[mobs.clawdian.cap_config]
 			#Damage Cap

@@ -1,5 +1,5 @@
 filename = 'lionfishapi-3.0-beta.jar'
-name = 'lionfishapi'
+name = 'Lionfish API'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

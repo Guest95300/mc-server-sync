@@ -1,0 +1,2 @@
+execute if items entity @s weapon.mainhand telepass:gold_telepass run function augustmc:boss_active_restrictitems_break
+execute if items entity @s weapon.mainhand telepass:diamond_telepass run function augustmc:boss_active_restrictitems_break

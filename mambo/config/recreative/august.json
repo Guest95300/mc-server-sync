@@ -102,7 +102,12 @@
   "bakeries:1_bakeries_sfp_tab",
   "bakeries:2_bakeries_compat_tab",
   "create_radar:radar",
-  "createthrusters:main"
+  "createthrusters:main",
+  "champions:champion_egg",
+  "cbc_firepower_components:main",
+  "skyfalltesla:skyfall_tesla",
+  "createendertransmission:base",
+  "aeronautics_utility_objects:main"
     ]
   },
   {

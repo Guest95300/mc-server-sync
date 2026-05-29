@@ -1,0 +1,10 @@
+{
+  "values": [
+    "terra_entity:flamarang",
+    "terra_entity:trimarang",
+    "terra_entity:ice_boomerang",
+    "terra_entity:shroomerang",
+    "terra_entity:enchanted_boomerang",
+    "terra_entity:wood_boomerang"
+  ]
+}

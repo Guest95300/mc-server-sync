@@ -2,7 +2,7 @@
 	enemyDropsMoney = true
 	autoStackGelsColor = true
 	returnPotionGlassBottle = false
-	rightClickRideMinecart = true
+	rightClickRideMinecart = false
 	# Default: 128
 	# Range: > 0
 	announcementBoxDistance = 128
@@ -33,7 +33,7 @@
 		doNPCSpawning = true
 		# Default: 2400
 		# Range: 20 ~ 20000
-		npcSpawnInterval = 2400
+		npcSpawnInterval = 9600
 		broadcastNpcMsg = true
 
 	[Spawning.Boss]
@@ -79,7 +79,7 @@
 		slimeRainEventMaxEnemiesBase = 25
 		# Default: 25
 		# Range: 1 ~ 1024
-		slimeRainEventPerPlayer = 15
+		slimeRainEventPerPlayer = 5
 		# Default: 1.0
 		# Range: 0.1 ~ 10.0
 		slimeRainEventSpawnIntervalFactor = 1.0
@@ -105,7 +105,7 @@
 		bloodMoonEventMaxEnemiesBase = 15
 		# Default: 30
 		# Range: 1 ~ 1024
-		bloodMoonEventMaxEnemiesPerPlayer = 5
+		bloodMoonEventMaxEnemiesPerPlayer = 2
 		# Default: 1.5
 		# Range: 0.1 ~ 10.0
 		bloodMoonEventSpawnEnemiesIntervalFactor = 1.5
@@ -125,7 +125,7 @@
 		goblinArmyEventMaxEnemiesBase = 15
 		# Default: 30
 		# Range: 1 ~ 1024
-		goblinArmyEventMaxEnemiesPerPlayer = 10
+		goblinArmyEventMaxEnemiesPerPlayer = 2
 		# Default: 1.5
 		# Range: 0.1 ~ 10.0
 		goblinArmyEventSpawnEnemiesIntervalFactor = 1.5

@@ -81,16 +81,16 @@
 	#Configure Boss Stats
 	["Boss Config".Tyros]
 		#Additional Health
-		additionalHealth = 0.0
+		additionalHealth = 36680.0
 		#Additional Melee Attack Damage
-		additionalAttackDamage = 0.0
+		additionalAttackDamage = 69.0
 		#Additional Spell Power (additive percent)
-		additionalSpellPower = 0.0
+		additionalSpellPower = 300.0
 
 	["Boss Config"."Dead King"]
 		#Additional Health
-		additionalHealth = 0.0
+		additionalHealth = 16680.0
 		#Additional Melee Attack Damage
-		additionalAttackDamage = 0.0
+		additionalAttackDamage = 43.0
 		#Additional Spell Power (additive percent)
-		additionalSpellPower = 0.0
+		additionalSpellPower = 300.0
